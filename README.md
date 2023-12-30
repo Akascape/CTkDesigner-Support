@@ -29,5 +29,4 @@ Available for: **Windows (.exe), MacOS (.app) and Linux**
 
 Current Version: 1.0
 
-## Why it's not free?
 I made lots of customtkinter widget and made them free for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you buy this project from me.
