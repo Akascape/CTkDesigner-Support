@@ -5,9 +5,10 @@ Here you can report any issues of CTkDesigner, ask for features, post templates 
 
 # What is CTkDesigner?
 
-CTkDesigner is a no-code, drag and drop customtkinter designer application. (WYSIWYG: what you see is what you get)
-You just have to click on the widget to spawn it on the working window, then move it with the mouse, change parameters and export it to a python app.
-After exporting, you can edit your ctk app easily like adding command and functions. CTkDesigner will simply save your time. 
+CTkDesigner is a no-code, drag and drop customtkinter designer application. (WYSIWYG: what you see is what you get).
+
+You just have to click on the widget to spawn it on the working window, then move and place it with the mouse, change required parameters and export it to a python app.
+After exporting, you can edit your python app easily, like adding command and functions. _CTkDesigner will simply save your time._
 
 Available for: **Windows (.exe), MacOS (.app) and Linux**
 
