@@ -13,7 +13,7 @@ Available for: **Windows (.exe), MacOS (.app) and Linux**
 
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)
 
-<br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=blue&color=007ec6" width="500">](o)  </br>
+<br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](o)  </br>
 
 ## Features
 - DRAG & DROP
