@@ -14,6 +14,8 @@ Available for: **Windows (.exe), MacOS (.app) and Linux**
 
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
 
+![Screenshot](https://github.com/TomSchimansky/CustomTkinter/assets/89206401/847a1e0b-39aa-475e-8546-6346c3c00a16)
+
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 
 ## Features
