@@ -25,7 +25,7 @@ Available for: **Windows (.exe), MacOS (.app) and Linux**
 - Precise place method
 - 14 core CTk widgets + 7 custom widgets
 - Create and preview themes
-- Export app to .py
+- Export app to .py (with pep8 refactor)
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
