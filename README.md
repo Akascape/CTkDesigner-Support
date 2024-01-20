@@ -21,13 +21,13 @@ Available for: **Windows (.exe), MacOS (.app) and Linux**
 - Move widgets
 - Adjust all parameters
 - Precise place method
-- 13 CTk widgets
+- 14 core CTk widgets + 7 custom widgets
 - Create and preview themes
 - Export app to .py
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
-Current Version: 1.0
+Current Version: 2.0
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
