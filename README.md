@@ -10,7 +10,7 @@ CTkDesigner is a no-code, drag and drop customtkinter gui design application. (W
 You just have to click on the widget to spawn it on the working window, then move and place it with the mouse, change required parameters and export it to a python app.
 After exporting, you can edit your python app easily, like adding commands and functions. _CTkDesigner will simply save your time._
 
-Available for: **Windows (.exe), MacOS (.app) and Linux**
+Available for: **Windows (.exe) and Linux**
 
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
 
