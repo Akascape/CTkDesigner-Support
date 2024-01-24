@@ -17,6 +17,8 @@ Available for: **Windows (.exe)** only
 ![Screenshot](https://github.com/TomSchimansky/CustomTkinter/assets/89206401/847a1e0b-39aa-475e-8546-6346c3c00a16)
 
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
+### Note 
+I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
 
 ## Features
 - DRAG & DROP
@@ -40,5 +42,4 @@ Current Version: 2.0
 - Adding Scrollable Frame
 - Adding Listbox widget
 
-### Note 
-I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
+_Prices may increase in future, better to buy the current version_
