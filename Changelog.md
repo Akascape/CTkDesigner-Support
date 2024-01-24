@@ -1,5 +1,5 @@
 ## V2 
-- 7 special widgets addded
+- 7 special widgets added
 - Added CTkSegmentedButton
 - Auto bg adjustments
 - pep8 refactorization in exported code
