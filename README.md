@@ -34,5 +34,11 @@ Current Version: 2.0
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
+## Next Roadmap for v3
+- Adding multiple pages
+- Button Navigation with pages
+- Adding Scrollable Frame
+- Adding Listbox widget
+
 ### Note 
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
