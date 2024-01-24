@@ -1,11 +1,10 @@
-## V2 (Working)
+## V2 
 - 7 special widgets addded
 - Added CTkSegmentedButton
 - Auto bg adjustments
 - pep8 refactorization in exported code
 - moved scale settings to export menu
 - Icon settings
-- other minor changes...
   
 ## V1
 - 13 CTk widgets
