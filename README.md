@@ -37,8 +37,8 @@ Current Version: 2.0
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
 ## Next Roadmap 
-- Adding multiple pages
+- Adding multiple pages 
 - Button Navigation with pages
-- Adding Listbox widget
+- Adding More widgets
 
 _Prices may increase in future, better to buy the current version_
