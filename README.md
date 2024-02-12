@@ -36,10 +36,9 @@ Current Version: 2.0
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
-## Next Roadmap for v3
+## Next Roadmap 
 - Adding multiple pages
 - Button Navigation with pages
-- Adding Scrollable Frame
 - Adding Listbox widget
 
 _Prices may increase in future, better to buy the current version_
