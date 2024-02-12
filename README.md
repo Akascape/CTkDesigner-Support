@@ -39,6 +39,6 @@ Current Version: 2.0
 ## Next Roadmap 
 - Adding multiple pages 
 - Button Navigation with pages
-- Adding More widgets
+- Adding Chart, Calendar, Listbox widgets
 
 _Prices may increase in future, better to buy the current version_
