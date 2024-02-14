@@ -27,7 +27,7 @@ I made many customtkinter widgets and released them for free, for everyone, but 
 - Precise place method
 - 14 core CTk widgets + 10 custom widgets
 - Create and preview themes
-- Pages for multiple windows
+- Multiple pages
 - Export app to .py (with pep8 refactor)
 - Save/Open created templates
 - All required functionalities and shortcuts added
