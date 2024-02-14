@@ -31,14 +31,13 @@ I made many customtkinter widgets and released them for free, for everyone, but 
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
-Current Version: 2.0
+Current Version: 3.0
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
 ## Next Roadmap 
-- Adding multiple pages 
-- Button Navigation with pages
-- Adding Chart, Calendar, Listbox widgets
+- Scrollable Frames
+- Resizability in window
 
 _Prices may increase in future, better to buy the current version_
