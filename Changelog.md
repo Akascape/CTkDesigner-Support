@@ -1,5 +1,22 @@
+## V3
+- 3 New widgets
+  - calendar
+  - chart
+  - listbox
+- Added Pages for multiple windows
+- Navigation in pages through buttons
+- Added font and image dialog boxes
+- Ability to fix widgets in all pages
+
 ## V2 
 - 7 special widgets added
+   - color picker
+   - spin box
+   - table
+   - graph
+   - hyperlink
+   - circular meter
+   - range slider
 - Added CTkSegmentedButton
 - Auto bg adjustments
 - pep8 refactorization in exported code
