@@ -1,5 +1,5 @@
 ## V3
-- 3 New widgets
+- 3 new widgets
   - calendar
   - chart
   - listbox
