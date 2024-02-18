@@ -24,6 +24,7 @@ Available for: **Windows (.exe)** only
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 ### Note 
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
+There might be some minor bugs inside, but you can report it and I will fix it for sure. 
 
 ## Features
 - DRAG & DROP
