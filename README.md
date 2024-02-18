@@ -46,5 +46,3 @@ Current Version: 3.1
 ## Next Roadmap (V4)
 - Scrollable Frames
 - Resizability in window
-
-_Prices may increase in future, better to buy the current version_
