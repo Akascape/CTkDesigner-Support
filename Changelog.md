@@ -1,3 +1,8 @@
+## V3.2
+- fixed bg color issue when frame is moved above other widgets
+- added manual coordinate window
+- dpi scale issue fixed (mouse movement)
+
 ## V3.1
 - fixed unicode text error
 
