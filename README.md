@@ -38,7 +38,7 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
-Current Version: 3.1
+Current Version: 3.2
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
