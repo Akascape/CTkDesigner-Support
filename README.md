@@ -18,7 +18,7 @@ Available for: **Windows (.exe)** only
 ## V2
 ![Screenshot](https://github.com/TomSchimansky/CustomTkinter/assets/89206401/847a1e0b-39aa-475e-8546-6346c3c00a16)
 
-## v3
+## V3
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/fc4da9cd-09ba-4f64-adc1-3fbfc50a40f8)
 
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
@@ -38,7 +38,7 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
-Current Version: 3.0
+Current Version: 3.1
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
