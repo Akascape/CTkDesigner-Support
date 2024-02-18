@@ -1,3 +1,6 @@
+## V3.1
+- fixed unicode text error
+
 ## V3
 - 3 new widgets
   - calendar
