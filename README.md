@@ -43,6 +43,7 @@ Current Version: 3.2
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
-## Next Roadmap (V4)
+## Next Roadmap (Expected)
 - Scrollable Frames
-- Resizability in window
+- gif widget
+- ability to add tooltips
