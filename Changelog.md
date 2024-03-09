@@ -1,4 +1,4 @@
-Major Updates: +1.0, Minor updates: +0.1 
+Version Management: Major Updates: +1.0, Minor updates: +0.1 
 
 ## V3
 - 3 new widgets
