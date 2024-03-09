@@ -1,10 +1,4 @@
-## V3.2
-- fixed bg color issue when frame is moved above other widgets
-- added manual coordinate window
-- dpi scale issue fixed (mouse movement)
-
-## V3.1
-- fixed unicode text error
+Major Updates: +1.0, Minor updates: +0.1 
 
 ## V3
 - 3 new widgets
@@ -16,6 +10,14 @@
 - Added font and image dialog boxes
 - Ability to fix widgets in all pages
 
+### V3.2
+- fixed bg color issue when frame is moved above other widgets
+- added manual coordinate window
+- dpi scale issue fixed (mouse movement)
+
+### V3.1
+- fixed unicode text error
+  
 ## V2 
 - 7 special widgets added
    - color picker
