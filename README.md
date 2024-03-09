@@ -44,6 +44,6 @@ Current Version: 3.2
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
 ## Next Roadmap (Expected)
-- Scrollable Frames
 - gif widget
 - ability to add tooltips
+- menubar
