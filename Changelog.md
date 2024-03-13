@@ -1,5 +1,18 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
 
+## V4
+- 3 new widgets
+  - gif
+  - video player
+  - draw canvas
+- Ability to add hover tooltips on any widget
+- Ability to add popup menu on right click or any side of the widget after clicking (suitable for making a ctkmenubar)
+- Uploaded custom_widgets library to pypi, called ctkdlib: https://pypi.org/project/ctkdlib/
+- Ability to add variable names for each widget if required
+- Now images can properly be added with CTkDraw widget where we can adjust corners, brightness, blur, etc...
+- Fixed one Font and Image dialog bug issue
+- Minor bug fixes in the pages feature
+
 ## V3
 - 3 new widgets
   - calendar
