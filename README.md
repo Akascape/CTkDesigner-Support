@@ -43,6 +43,9 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 
 Current Version: 4.0
 
+## All Widgets
+![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
+
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
