@@ -7,6 +7,7 @@ Version Management: Major Updates: +1.0, Minor updates: +0.1
   - draw canvas
 - Ability to add hover tooltips on any widget
 - Ability to add popup menu on right click or any side of the widget after clicking (suitable for making a ctkmenubar)
+- Ability to manually set the slider value by right-clicking on the option
 - Uploaded custom_widgets library to pypi, called ctkdlib: https://pypi.org/project/ctkdlib/
 - Ability to add variable names for each widget if required
 - Now images can properly be added with CTkDraw widget where we can adjust corners, brightness, blur, etc...
