@@ -21,6 +21,9 @@ Available for: **Windows (.exe)** only
 ## V3
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/fc4da9cd-09ba-4f64-adc1-3fbfc50a40f8)
 
+## V4
+![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/e8f1ea5a-24be-42fc-8513-eedba1662caf)
+
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 ### Note 
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
@@ -31,19 +34,17 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Move widgets
 - Adjust all parameters
 - Precise place method
-- 14 core CTk widgets + 10 custom widgets
+- 14 core CTk widgets + 13 custom widgets
 - Create and preview themes
 - Multiple pages
 - Export app to .py (with pep8 refactor)
 - Save/Open created templates
 - All required functionalities and shortcuts added
 
-Current Version: 3.2
+Current Version: 4.0
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
 ## Next Roadmap (Expected)
-- gif widget
-- ability to add tooltips
-- menubar
+- Scrollabel Frames if possible
