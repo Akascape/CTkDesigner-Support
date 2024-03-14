@@ -50,6 +50,6 @@ Current Version: 4.0
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
 ## Next Roadmap (Expected)
-- Scrollabel Frames if possible
+- Scrollable Frames if possible
 - Tabview
   
