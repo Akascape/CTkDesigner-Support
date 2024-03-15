@@ -50,6 +50,15 @@ Current Version: 4.0
 ## All Widgets
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
 
+Requirement for python:
+- customtkinter
+- ctktable
+- ctklistbox
+- ctkdlib
+- pillow
+  
+(If you are using ctkvideo widget, install pyav and pyaudio)
+
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
 
