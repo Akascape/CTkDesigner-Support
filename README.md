@@ -8,7 +8,7 @@ Here you can report any issues of CTkDesigner, ask for features, qna, post templ
 CTkDesigner is a no-code, drag and drop customtkinter gui design application. (WYSIWYG: what you see is what you get).
 
 You just have to click on the widget to spawn it on the working window, then move and place it with the mouse, change required parameters and export it to a python app.
-After exporting, you can edit your python app easily, like adding commands and functions. _CTkDesigner will simply save your time._
+After exporting, you can edit your python app easily, like adding commands, conditions and functions. _CTkDesigner will simply save your time._
 
 Available for: **Windows (.exe)** only
 
@@ -30,15 +30,19 @@ I made many customtkinter widgets and released them for free, for everyone, but 
 There might be some minor bugs inside, but you can report it and I will fix it for sure. 
 
 ## Features
-- DRAG & DROP
-- Move widgets
-- Adjust all parameters
+- Just DRAG & DROP 
+- Move and place widgets
+- Adjust all parameters of the widget
 - Precise place method
 - 14 core CTk widgets + 13 custom widgets
 - Create and preview themes
-- Multiple pages
-- Export app to .py (with pep8 refactor)
-- Save/Open created templates
+- Multiple pages (switchable)
+- Add Hover tooltips
+- Add Popup Menus
+- Customise font, add images, gif, videos etc
+- Data Visualizing widgets like graph, chart, table, calendar etc
+- Export app to .py (with pep8 refactor, both standard and OOP structure)
+- Save/Open and edit created templates
 - All required functionalities and shortcuts added
 
 Current Version: 4.0
