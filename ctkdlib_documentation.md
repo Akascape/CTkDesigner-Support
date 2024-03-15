@@ -10,6 +10,11 @@ pip install ctkdlib
 ```
 Pypi Page: https://pypi.org/project/ctkdlib/
 
+### Usage
+```python
+from ctkdlib.custom_widgets import *
+```
+
 ## Features
 - CTkCalendar
 - CTkVideo
