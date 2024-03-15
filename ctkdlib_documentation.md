@@ -27,6 +27,14 @@ Pypi Page: https://pypi.org/project/ctkdlib/
 
 # Documentation
 
+### Common Methods for all widgets
+- .configure(...) : change the parameters
+- .cget(param) : returns the value of a parameter
+- .bind(func, command, add) : bind an event with the widget
+- .unbind(func) : unbind the widget event
+- .destroy() : destroy the widget completely
+- .place_forget() : remove the widget from the page
+
 ## CTkCalendar
 
 ### Parameters
@@ -229,9 +237,77 @@ Pypi Page: https://pypi.org/project/ctkdlib/
 | height | change height of widget |
 | path | the image path location |
 | fg_color | change foreground color of canvas |
-| corner_radius| corner roundness of the image |
+| corner_radius | change corner roundness of the image |
 | draw | bool, enable/disable writing on the canvas image |
 | text_color | change the color of the pen |
 | pen_size | change the size of the pen |
-| brightness | change the brightness of the image |
-... 
+| brightness | change the brightness level of the image |
+| contrast | change the contrast level of the image |
+| saturation | change the color saturation of the image |
+| sharpness | change the sharpness value of the image |
+| blur | add gausian blur in the image |
+
+### Methods
+- .clear() : clears the drawings
+- .paste(path, width, height, x, y) : paste a new image in top of the canvas
+- .save(location) : save the canvas image
+
+### CTkVideo
+
+To use this widget, you have to install [pyav](https://pypi.org/project/av/) and [pyaudio](https://pypi.org/project/PyAudio/)
+
+### Parameters
+| Arguments | Description |
+|---------|-------------|
+| width | change width of widget |
+| height | change height of widget |
+| fg_color | change foreground color of widget |
+| audio | enable/disable the audio while playing |
+| keep_aspect | enable/disable aspect ration |
+
+### Methods
+- .load(file) : load the video file
+- .play() : play the video file
+- .pause() : pause the video
+- .stop() : stop/end the video
+- .mute()/.unmute() : enable/disable the audio
+- .seek(second) : seek to a particular section of video
+- .video_info() : returns the video information
+
+## CTkTooltip
+
+### Parameters
+| Arguments | Description |
+|---------|-------------|
+| master | add the hover to the widget |
+| text | specify the hover message |
+| delay | show the message after hovering delay, default 1.5s |
+| fg_color | change foreground color of widget |
+| text_color | change the color of the text |
+| font | change the font of the text |
+| state | change the state of the widget |
+
+## CTkPopupMenu
+
+### Parameters
+| Arguments | Description |
+|---------|-------------|
+| master | link the popup to the widget |
+| width | change width of widget |
+| height | change height of widget |
+| fg_color | change foreground color of widget |
+| bg_color | change background color of widget |
+| border_width | change the width of the border |
+| border_color | change the border color |
+| text_color | change the color of the text |
+| corner_radius | change corner roundness of the widget |
+| hover | enable/disable the hover effect |
+| hover_color | change the color of hover effect |
+| font | change the font of the text |
+| values | dict, add the menu content and commands, example: {"option1": command, "option2": None} |
+| popup_type | spawn type, 0 for right click, 1 for below the widget, 2 for right side, 3 for left side after click |
+
+## Methods:
+- .popup() : spawn the popup menu manually
+- .hide() : hides the popup menu
+- .clear_all() : remove all the menu content
