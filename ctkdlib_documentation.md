@@ -274,6 +274,8 @@ To use this widget, you have to install [pyav](https://pypi.org/project/av/) and
 - .seek(second) : seek to a particular section of video
 - .video_info() : returns the video information
 
+(This widget is derivative of TkVideoPlayer)
+
 ## CTkTooltip
 
 ### Parameters
