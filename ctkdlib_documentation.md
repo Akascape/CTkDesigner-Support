@@ -28,7 +28,7 @@ Pypi Page: https://pypi.org/project/ctkdlib/
 # Documentation
 
 ### Common Methods for all widgets
-- .configure(...) : change the parameters
+- .configure(..args) : change the parameters
 - .cget(param) : returns the value of a parameter
 - .bind(func, command, add) : bind an event with the widget
 - .unbind(func) : unbind the widget event
