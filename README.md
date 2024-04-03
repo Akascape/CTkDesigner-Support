@@ -43,7 +43,6 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Data Visualizing widgets like graph, chart, table, calendar etc
 - Export app to .py (with pep8 refactor, both standard and OOP structure)
 - Save/Open and edit created templates
-- Free Updates
 - All required functionalities and shortcuts added
 
 Current Version: 4.0
