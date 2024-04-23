@@ -45,6 +45,7 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Multiple pages (switchable)
 - Add Hover tooltips
 - Add Popup Menus
+- ScrollableFrame
 - Customise font, add images, gif, videos etc
 - Data Visualizing widgets like graph, chart, table, calendar etc
 - Export app to .py (with pep8 refactor, both standard and OOP structure)
