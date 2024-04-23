@@ -63,6 +63,7 @@ Requirement for python:
 - ctklistbox
 - ctkdlib
 - pillow
+- pywinstyles
   
 (If you are using ctkvideo widget, install pyav and pyaudio)
 
