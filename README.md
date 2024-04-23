@@ -12,6 +12,7 @@ After exporting, you can edit your python app easily, like adding commands, cond
 
 Available for: **Windows (.exe)** only
 
+  
 ## V1
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
 
@@ -23,6 +24,11 @@ Available for: **Windows (.exe)** only
 
 ## V4
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/e8f1ea5a-24be-42fc-8513-eedba1662caf)
+
+## V5
+<br> <p align='center'>
+![Screengif](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/a2efbd88-eebf-4d34-aa36-d8c046584c93)
+</p>
 
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=python&logoColor=yellow&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 ### Note 
@@ -45,7 +51,7 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 - Save/Open and edit created templates
 - All required functionalities and shortcuts added
 
-Current Version: 4.0
+Current Version: 5.0
 
 ## All Widgets
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
@@ -61,7 +67,3 @@ Requirement for python:
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
-
-## Next Roadmap (Expected)
-- Scrollable Frames if possible
-  
