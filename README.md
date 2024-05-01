@@ -17,8 +17,6 @@ Available for: **Windows (.exe)** only
 ### Note 
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
 There might be some minor bugs inside, but you can report it and I will fix it for sure. 
-(Please don't raise any dispute/chargebacks, contact me first if there is any issue)
-
 
 ## V1
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
