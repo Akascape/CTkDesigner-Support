@@ -7,7 +7,7 @@ uploading soon...
 ## Limitations of the trial version:
 - ✅ Time unlimited trial period
 - ✅ Latest version
-- ✅ Save/Load Templates
+- ✅ Save/Load as templates
 - ✅ Drag and move widgets
 - ✅ Customise widgets
 - ✅ Precise place method
