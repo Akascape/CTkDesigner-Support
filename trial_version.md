@@ -6,23 +6,23 @@ but there are limitations in the trial version which I have added for obvious re
 Extract the zip file and run ctkdesigner.exe
 
 ## Limitations of the trial version:
-- ✅ Time unlimited trial period
-- ✅ Latest version
-- ✅ Save/Load as templates
-- ✅ Drag and move widgets
-- ✅ Customise widgets
-- ✅ Precise place method
-- ✅ Core CTk widgets only
-- ❌ No saving after loading templates
-- ❌ No export to .py
-- ❌ No theme editing
-- ❌ No external widgets
-- ❌ No tooltips
-- ❌ No popup menu
-- ❌ No page feature
-- ❌ No custom parameters
-- ❌ No offline documetation
-- ❌ Missing functionalities
+<br> ✅ Time unlimited trial period
+<br> ✅ Latest version
+<br> ✅ Save/Load as templates
+<br> ✅ Drag and move widgets
+<br> ✅ Customise widgets
+<br> ✅ Precise place method
+<br> ✅ Core CTk widgets only
+<br> ❌ No saving after loading templates
+<br> ❌ No export to .py
+<br> ❌ No theme editing
+<br> ❌ No external widgets
+<br> ❌ No tooltips
+<br> ❌ No popup menu
+<br> ❌ No page feature
+<br> ❌ No custom parameters
+<br> ❌ No offline documetation
+<br> ❌ Missing functionalities
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
 
