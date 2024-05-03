@@ -1,7 +1,7 @@
 # CTkDesigner-Support
 **Support page for CTkDesigner**
 
-Here you can report any issues of CTkDesigner, ask for features, qna, post templates etc.
+Here you can get the trial version, or report any issues of CTkDesigner, ask for features, qna, post templates etc.
 
 # What is CTkDesigner?
 
