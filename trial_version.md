@@ -1,4 +1,4 @@
-**I highly recommend trying the trial version of CTkDesigner so that you can test the software and explore the possibilities of the app before buying the official version, 
+**I highly recommend trying the trial version of CTkDesigner so that you can test the software and explore the possibilities of it before buying the official version, 
 but there are limitations in the trial version which I have added for obvious reasons.**
 
 ## DOWNLOAD TRIAL VERSION
