@@ -6,6 +6,7 @@ uploading soon...
 
 ## Limitations of the trial version:
 - ✅ Time unlimited trial period
+- ✅ Latest UI
 - ✅ Save/Load Templates
 - ✅ Drag and move widgets
 - ✅ Customise widgets
