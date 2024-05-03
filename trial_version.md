@@ -2,7 +2,8 @@
 but there are limitations in the trial version which I have added for obvious reasons.**
 
 ## DOWNLOAD TRIAL VERSION
-uploading soon...
+<br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/releases/download/trial-version/CTkDesigner-Trial.zip)  </br>
+Extract the zip file and run ctkdesigner.exe
 
 ## Limitations of the trial version:
 - ✅ Time unlimited trial period
@@ -23,3 +24,5 @@ uploading soon...
 - ❌ Missing functionalities
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
+
+Note: This app is packed using pyisnstaller so ignore if there is any detections shown by antiviruses, false positives are common with pyinstaller app, you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust me then don't test/buy this software, thats it 😂
