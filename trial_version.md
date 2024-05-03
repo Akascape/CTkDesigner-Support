@@ -25,4 +25,4 @@ Extract the zip file and run ctkdesigner.exe
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
 
-Note: This app is packed using pyisnstaller so ignore if there is any detections shown by antiviruses, false positives are common with pyinstaller app, you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust me then don't test/buy this software, thats it 😂
+Note: This app is packed using pyisnstaller so ignore if there is any detections shown by antiviruses, false positives are common with pyinstaller app, you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust me then don't test/buy this software, thats it 😊
