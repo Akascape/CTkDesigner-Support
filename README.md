@@ -19,6 +19,24 @@ Available for: **Windows (.exe)** only
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
 There might be some minor bugs inside, but you can report it and I will fix it for sure. 
 
+## Features
+- DRAG & DROP widgets
+- Move and place widgets
+- Adjust all parameters of the widget
+- Precise place method
+- 14 core CTk widgets + 13 custom-made widgets
+- Create and preview themes
+- Multiple pages (switchable)
+- Add Hover tooltips
+- Add Popup Menus
+- ScrollableFrame
+- Customise font, add images, gif, videos etc
+- Data Visualizing widgets like graph, chart, table, calendar etc
+- Export app to .py (with pep8 refactor, both standard and OOP structure)
+- Save/Open and edit created templates
+- All required functionalities and shortcuts
+
+# SCREENSHOTS
 ## V1
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
 
@@ -35,23 +53,6 @@ There might be some minor bugs inside, but you can report it and I will fix it f
 <br> <p align='center'>
 ![Screengif](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/a2efbd88-eebf-4d34-aa36-d8c046584c93)
 </p>
-
-## Features
-- Just DRAG & DROP 
-- Move and place widgets
-- Adjust all parameters of the widget
-- Precise place method
-- 14 core CTk widgets + 13 custom widgets
-- Create and preview themes
-- Multiple pages (switchable)
-- Add Hover tooltips
-- Add Popup Menus
-- ScrollableFrame
-- Customise font, add images, gif, videos etc
-- Data Visualizing widgets like graph, chart, table, calendar etc
-- Export app to .py (with pep8 refactor, both standard and OOP structure)
-- Save/Open and edit created templates
-- All required functionalities and shortcuts added
 
 Current Version: 5.0
 
