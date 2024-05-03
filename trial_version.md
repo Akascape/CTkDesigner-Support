@@ -20,7 +20,8 @@ Extract the zip file and run ctkdesigner.exe
 - ❌ No tooltips
 - ❌ No popup menu
 - ❌ No page feature
-- ❌ No custom parameters 
+- ❌ No custom parameters
+- ❌ No offline documetation
 - ❌ Missing functionalities
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
