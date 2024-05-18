@@ -17,7 +17,7 @@ Available for: **Windows (.exe)** only
 
 ### Note 
 I made many customtkinter widgets and released them for free, for everyone, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you like to buy this project from me.
-There might be some minor bugs inside, but you can report it and I will fix it for sure. 
+There might be some minor bugs inside, but you can report it and I will try to fix it asap. 
 
 ## Features
 - DRAG & DROP widgets
