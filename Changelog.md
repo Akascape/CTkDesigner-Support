@@ -1,4 +1,14 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
+## V5
+- New widget: ScrollableFrame
+- Now you can add widgets in both normal and scrollable frame
+- Acrylic theme for windows
+- Alpha/transparency in widgets using pyinstyles
+- Modified the app detail section where you can add title/icon in the app
+- Fixed issues related to images Can't clear image file reference from Application
+- Fixed duplicate button with image error
+- Fixed adding Image to Draw error
+- Updated ctkdlib
 
 ## V4
 - 3 new widgets
