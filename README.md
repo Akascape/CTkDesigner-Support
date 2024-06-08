@@ -36,7 +36,7 @@ There might be some minor bugs inside, but you can report it and I will try to f
 - Save/Open and edit created templates
 - All required functionalities and shortcuts
 
-# SCREENSHOTS
+# SCREENSHOTS | DEVELOPMENT 
 ## V1
 [![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
 
