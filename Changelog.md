@@ -1,7 +1,7 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
 
 ## V6
-- New quick preview option
+- New quick preview option (runs locally)
 - Unlock option added
 - Added navigation to segmented buttons
 - Ability to change page of a widget
