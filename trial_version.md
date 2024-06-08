@@ -7,7 +7,6 @@ Extract the zip file and run ctkdesigner.exe
 
 ## Limitations of the trial version:
 <br> ✅ Time unlimited trial period
-<br> ✅ Latest version
 <br> ✅ Save/Load as templates
 <br> ✅ Drag and move widgets
 <br> ✅ Customise widgets
@@ -26,4 +25,4 @@ Extract the zip file and run ctkdesigner.exe
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
 
-Note: This app is packed using pyinstaller so ignore if there is any detections shown by antiviruses (which is rare), false positives are common issue with pyinstaller app, you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust me then don't test/buy this software, thats it 😊
+Note: This app is packed using pyinstaller so ignore if there is any detections shown by antiviruses (which is rare), false positives are common issue with pyinstaller app (https://github.com/Akascape/CTkDesigner-Support/discussions/20), you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust it then don't test/buy this software, no hard feelings 😊
