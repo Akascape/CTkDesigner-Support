@@ -54,7 +54,7 @@ There might be some minor bugs inside, but you can report it and I will try to f
 ![Screengif](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/a2efbd88-eebf-4d34-aa36-d8c046584c93)
 </p>
 
-Current Version: 5.0
+Current Version: 6.0
 
 ## All Widgets
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
