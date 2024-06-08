@@ -1,4 +1,18 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
+
+## V6
+- New quick preview option
+- Unlock option added
+- Added navigation to segmented buttons
+- Ability to change page of a widget
+- Fixed spawn overlap issue with fixed widgets
+- Added label in font scale
+- Fixed reload image issue of label/button
+- Added delay option in tooltip
+- New document option in file menu
+- Tried to reduce antivirus false detection, see [#20](https://github.com/Akascape/CTkDesigner-Support/discussions/20)
+- More bug fixes
+
 ## V5
 - New widget: ScrollableFrame
 - Now you can add widgets in both normal and scrollable frame
