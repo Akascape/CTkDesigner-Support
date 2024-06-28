@@ -16,7 +16,7 @@ Available for: **Windows (.exe)** only
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/blob/main/trial_version.md)  </br>
 
 ### Note 
-I made many customtkinter widgets and released them for free, but CTkDesigner took a lot of manual work and time, so consider this as a type of donation if you are willing to buy this project from me.
+I made many customtkinter widgets and released them for free, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you are willing to buy this project from me.
 There might be some minor bugs, but you can report it and I will try to fix it asap. 
 
 ## Features
