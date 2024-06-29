@@ -20,8 +20,8 @@ I made many customtkinter widgets and released them for free, but CTkDesigner to
 There might be some minor bugs, but you can report it and I will try to fix it asap. 
 
 ### Links:
-Buy link: https://ko-fi.com/s/6fca1ae70f
-Showcase Website: https://ctkdesigner.akascape.com/
+<br> Buy link: https://ko-fi.com/s/6fca1ae70f
+<br> Showcase Website: https://ctkdesigner.akascape.com/
 
 ## Features
 - DRAG & DROP widgets
