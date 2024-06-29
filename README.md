@@ -19,6 +19,10 @@ Available for: **Windows (.exe)** only
 I made many customtkinter widgets and released them for free, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you are willing to buy this project from me.
 There might be some minor bugs, but you can report it and I will try to fix it asap. 
 
+### Links:
+Buy link: https://ko-fi.com/s/6fca1ae70f
+Showcase Website: https://ctkdesigner.akascape.com/
+
 ## Features
 - DRAG & DROP widgets
 - Move and place widgets
