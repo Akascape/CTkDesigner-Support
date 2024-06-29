@@ -1,5 +1,5 @@
 **I highly recommend trying the trial version of CTkDesigner so that you can test the software and explore the possibilities of it before buying the official version, 
-but there are limitations in the trial version which I have added for obvious reasons.**
+but there are limitations in the trial version which I added for obvious reasons.**
 
 ## DOWNLOAD TRIAL VERSION
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/releases/download/trial-version/CTkDesigner-Trial.zip)  </br>
