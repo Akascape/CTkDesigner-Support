@@ -1,4 +1,4 @@
-THIS IS A CUSTOM LICENSE FOR CTKDESIGNER
+CUSTOM LICENSE FOR CTKDESIGNER
 
 Users are NOT ALLOWED to do copying, sharing or modification of CTkDesigner software. 
 
