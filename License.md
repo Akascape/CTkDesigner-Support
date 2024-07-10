@@ -1,7 +1,8 @@
 THIS IS A CUSTOM LICENSE FOR CTKDESIGNER
 
-Users are NOT ALLOWED to do copying, sharing or modification of ctkdesigner. 
-But any file generated with ctkdesinger belongs to the user who exported it, and is not the property of ctkdesigner and does not belong to this license.
+Users are NOT ALLOWED to do copying, sharing or modification of CTkDesigner software. 
+
+The exported code or files generated from CTkDesigner are not placed under this license. Users have complete freedom to use the exported code for any purpose, including commercial or non-commercial, without any restrictions.
 
 There should be no assignment or granting of licenses of this software to third parties without permission of author.
 
