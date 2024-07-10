@@ -1,10 +1,10 @@
-CUSTOM LICENSE FOR CTKDESIGNER
+CUSTOM LICENSE AGREEMENT FOR CTKDESIGNER
 
 Users are NOT ALLOWED to do copying, sharing or modification of CTkDesigner software. 
 
-The exported code or files generated from CTkDesigner are not placed under this license. Users have complete freedom to use the exported code for any purpose, including commercial or non-commercial, without any restrictions.
+There should be NO assignment or granting of licenses of this software to third parties without permission of author.
 
-There should be no assignment or granting of licenses of this software to third parties without permission of author.
+The exported code or files generated from CTkDesigner are not placed under this license. Users have complete freedom to use the exported code for any purpose, including commercial or non-commercial, without any restrictions.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
