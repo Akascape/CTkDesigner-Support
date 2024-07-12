@@ -75,6 +75,7 @@ Requirement for python:
 - pywinstyles
   
 (If you are using ctkvideo widget, install pyav and pyaudio)
+<br> Note: Customtkinter and its related widget libraries are all MIT licensed, users have complete freedom to use these libraries and code for any purpose (including commercial or non-commercial projects).
 
 ## Watch Tutorial
 <br> [<img src="https://img.youtube.com/vi/bIWLkiYeWFg/0.jpg" width=80% height=80%>](https://youtu.be/bIWLkiYeWFg)
