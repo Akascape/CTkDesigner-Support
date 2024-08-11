@@ -1,5 +1,21 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
 
+## V7
+- Added new grid background for better widget placement (Ctrl+q)
+- New Undo feature (experimental), currently recovers deleted widgets and placements
+- Fixed duplicate issue when moved to top 
+- Now we can fix the parameter window to right side when opened, helpful if you window size is large. Just click the new gear icon in the bottom of param window
+- Now we have ability to link a slider and label, where the label text changes to the slider value
+Applicable widgets: CTkSlider, CTkRangeSlider, CTkMeter, CTkColorPicker
+- Added Ctrl+C and Ctrl+V for widgets
+- Added ability to duplicate whole frame and it's subwidgets
+- Added feathering (corner softness) in CTkDraw widget (ctkdlib)
+- Now the lock parameter can be saved in Json
+- Fixed CTkListbox parameter window issue when open through the menu
+- Now the slider value and textbox text can be exported
+- Added scrollable frame orientation
+- And many more minor improvements and bug fixes...
+
 ## V6
 - New quick preview option (runs locally)
 - Unlock option added
