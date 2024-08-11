@@ -251,6 +251,7 @@ from ctkdlib.custom_widgets import *
 | saturation | change the color saturation of the image |
 | sharpness | change the sharpness value of the image |
 | blur | add gausian blur in the image |
+| corner_softness | add the feathering effect in the edges of the image |
 
 ### Methods
 - .clear() : clears the drawings
