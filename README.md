@@ -28,7 +28,7 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 - Move and place widgets
 - Adjust all parameters of the widget
 - Precise place method
-- 14 core CTk widgets + 13 custom-made widgets
+- 15 core CTk widgets + 13 custom-made widgets
 - Create and preview themes
 - Multiple pages (switchable)
 - Add Hover tooltips
