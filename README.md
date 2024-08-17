@@ -61,7 +61,7 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 ## V6
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/2aacd119-c580-4840-baae-1b57a7a45845)
 
-Current Version: 7.0
+Current Version: 7.1
 
 ## All Widgets
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
