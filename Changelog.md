@@ -1,5 +1,8 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
-
+### 7.2
+- Fixed a lock frame issue
+- Fixed a major image path issue
+  
 ### 7.1
 - Fixed a grid issue
 - Fixed a save file option after opening new project
