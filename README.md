@@ -40,26 +40,38 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 - Save/Open and edit created templates
 - All required functionalities and shortcuts
 
-# SCREENSHOTS | DEVELOPMENT 
-## V1
-[![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3)](https://ko-fi.com/s/6fca1ae70f)
+## Gallery
+<table>
+  <tr>
+    <th>Version</th>
+    <th>V1</th>
+    <th>V2</th>
+    <th>V3</th>
+    <th>V4</th>
+  </tr>
+  <tr>
+    <td>Screenshot</td>
+    <td><a href="https://ko-fi.com/s/6fca1ae70f"><img src="https://github.com/Akascape/CTkDesigner-Support/assets/89206401/6435f49b-f7d0-4cba-8190-73cd71d77ac3" alt="Screenshot"></a></td>
+    <td><img src="https://github.com/TomSchimansky/CustomTkinter/assets/89206401/847a1e0b-39aa-475e-8546-6346c3c00a16" alt="Screenshot"></td>
+    <td><img src="https://github.com/Akascape/CTkDesigner-Support/assets/89206401/fc4da9cd-09ba-4f64-adc1-3fbfc50a40f8" alt="Screenshot"></td>
+    <td><img src="https://github.com/Akascape/CTkDesigner-Support/assets/89206401/e8f1ea5a-24be-42fc-8513-eedba1662caf" alt="Screenshot"></td>
+  </tr>
+  <tr>
+    <th>Version</th>
+    <th>V5</th>
+    <th>V6</th>
+    <th>V8</th>
+    <th></th> <!-- Empty cell for alignment -->
+  </tr>
+  <tr>
+    <td>Screenshot</td>
+    <td><img src="https://github.com/Akascape/CTkDesigner-Support/assets/89206401/a2efbd88-eebf-4d34-aa36-d8c046584c93" alt="Screengif"></td>
+    <td><img src="https://github.com/Akascape/CTkDesigner-Support/assets/89206401/2aacd119-c580-4840-baae-1b57a7a45845" alt="Screenshot"></td>
+    <td><img src="https://github.com/user-attachments/assets/18a68bd2-eead-48a1-b535-5cac8a5fe17b" alt="Screenshot 2025-02-16 161817"></td>
+    <td></td> <!-- Empty cell for alignment -->
+  </tr>
+</table>
 
-## V2
-![Screenshot](https://github.com/TomSchimansky/CustomTkinter/assets/89206401/847a1e0b-39aa-475e-8546-6346c3c00a16)
-
-## V3
-![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/fc4da9cd-09ba-4f64-adc1-3fbfc50a40f8)
-
-## V4
-![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/e8f1ea5a-24be-42fc-8513-eedba1662caf)
-
-## V5
-<br> <p align='center'>
-![Screengif](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/a2efbd88-eebf-4d34-aa36-d8c046584c93)
-</p>
-
-## V6
-![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/2aacd119-c580-4840-baae-1b57a7a45845)
 
 Current Version: 8.0
 
