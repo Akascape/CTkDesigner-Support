@@ -26,6 +26,8 @@ from ctkdlib.custom_widgets import *
 - CTkPopupMenu
 - CTkRangeSlider
 - CTkColorPicker
+- CTkRadarChart
+- CTkPieChart
 - CTkDraw
 - CTkSpinbox
 - CTkHyperLink
@@ -159,8 +161,6 @@ from ctkdlib.custom_widgets import *
 - **.delete_data(tag)**: delete a line from the chart
 - **.update_data(tag, *args)**: update any tag data
 - **.get(tag)**: return data and color of the chart, tag is optional
-- **.configure(*args)**: change parameters of the radar chart
-- **.cget(parameter)**: return the required parameter from the chart
 
 ## CTkPieChart
 
@@ -181,8 +181,6 @@ from ctkdlib.custom_widgets import *
 - **.delete(tag)**: delete a section from the chart
 - **.update(tag, *args)**: update any tag data
 - **.get(tag)**: return data/color of the chart sections, tag is optional
-- **.configure(*args)**: change parameters of the pie chart
-- **.cget(parameter)**: return the required parameter from the chart
 
 ## CTkRangeSlider
 
