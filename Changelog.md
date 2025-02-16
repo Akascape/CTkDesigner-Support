@@ -1,4 +1,16 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
+
+## V8
+- Project Mode Export with separate files (beta)
+- New Widget: CTkRadarChart
+- New Widget: CTkPieChart
+- Added Page Name Option
+- Layers window
+- Bg color issue for fixed frame widgets
+- New Line can be added using \n in text
+- Horizontal scrollable frame improved
+- Root bg color fixed
+   
 ### 7.2
 - Fixed a lock frame issue
 - Fixed a major image path issue
