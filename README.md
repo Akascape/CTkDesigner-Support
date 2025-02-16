@@ -28,7 +28,7 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 - Move and place widgets
 - Adjust all parameters of the widget
 - Precise place method
-- 15 core CTk widgets + 13 custom-made widgets
+- 15 core CTk widgets + 15 custom-made widgets
 - Create and preview themes
 - Multiple pages (switchable)
 - Add Hover tooltips
@@ -61,10 +61,10 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 ## V6
 ![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/2aacd119-c580-4840-baae-1b57a7a45845)
 
-Current Version: 7.2
+Current Version: 8.0
 
 ## All Widgets
-![Screenshot](https://github.com/Akascape/CTkDesigner-Support/assets/89206401/36b6557e-9aef-4c4a-8639-68fdbf3856b4)
+![all_widgets](https://github.com/user-attachments/assets/305176ce-c571-40ed-9283-777663c66b3e)
 
 Requirement for python:
 - customtkinter
