@@ -10,6 +10,11 @@ pip install ctkdlib
 ```
 Pypi Page: https://pypi.org/project/ctkdlib/
 
+## How to update?
+```
+pip install ctkdlib --upgrade
+```
+
 ### Usage
 ```python
 from ctkdlib.custom_widgets import *
