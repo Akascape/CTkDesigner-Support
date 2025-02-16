@@ -137,6 +137,53 @@ from ctkdlib.custom_widgets import *
 | bar_color | change the color of the stats |
 | bar_text_color | change the color of the stat text |
 
+## CTkRadarChart
+
+### Parameters
+| Parameters | Details |
+|--------|----------|
+| master	| root window, can be _CTk_ or _CTkFrame_|
+| radius | the initial size of the radar chart |
+| num_axes | number of axes in the chart |
+| radial_lines | number of grid lines inside the chart |
+| border_width | size of the data lines |
+| fg_color | color of the background chart lines |
+| bg_color | background color of the widget |
+| text_color | color of the label text |
+| labels | text shown at each axes |
+| padding | adjust space inside the widget |
+| font | font of the text labels |
+
+### Methods
+- **.add_data(tag, data, color, fill)**: adds new data line in the chart, **tag**: data line name; **data**: list of values; **color**: color of line (optional, choses color randomly by default), **fill**: add color in the polygon (optional, true by default)
+- **.delete_data(tag)**: delete a line from the chart
+- **.update_data(tag, *args)**: update any tag data
+- **.get(tag)**: return data and color of the chart, tag is optional
+- **.configure(*args)**: change parameters of the radar chart
+- **.cget(parameter)**: return the required parameter from the chart
+
+## CTkPieChart
+
+### Parameters
+| Parameters | Details |
+|--------|----------|
+| master	| root window or frame |
+| radius | the initial size of the pie chart |
+| line_width | size of the inner radius |
+| border_width | add border around the pie chart |
+| border_color | color of the borders |
+| bg_color | background color of the widget |
+| text_color | color of the label text |
+| values | add all the values at once, _dict_ |
+
+### Methods
+- **.add(tag, value, color, text_color)**: adds new data in the chart, **tag**: section name; **data**: value; **color**: color of section (optional, choses color randomly by default), **text_color**: color of text over the section (optional)
+- **.delete(tag)**: delete a section from the chart
+- **.update(tag, *args)**: update any tag data
+- **.get(tag)**: return data/color of the chart sections, tag is optional
+- **.configure(*args)**: change parameters of the pie chart
+- **.cget(parameter)**: return the required parameter from the chart
+
 ## CTkRangeSlider
 
 ### Parameters
