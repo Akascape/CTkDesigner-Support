@@ -75,7 +75,7 @@ There might be some minor bugs, but you can report it and I will try to fix it a
 
 Current Version: 8.0
 
-## All Widgets
+## 30+ Widgets
 ![all_widgets](https://github.com/user-attachments/assets/305176ce-c571-40ed-9283-777663c66b3e)
 
 Requirement for python:
