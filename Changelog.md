@@ -10,7 +10,8 @@ Version Management: Major Updates: +1.0, Minor updates: +0.1
 - New Line can be added using \n in text
 - Horizontal scrollable frame improved
 - Root bg color fixed
-   
+- Release the MacOS version
+
 ### 7.2
 - Fixed a lock frame issue
 - Fixed a major image path issue
