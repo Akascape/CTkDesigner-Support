@@ -10,14 +10,15 @@ CTkDesigner is a no-code, drag and drop customtkinter gui design application. (W
 You just have to click on the widget to spawn it on the working window, then move and place it with the mouse, change required parameters and export it to a python app.
 After exporting, you can edit your python app easily, like adding commands, conditions and functions. _CTkDesigner will simply save your time._
 
-Available for: **Windows (.exe)** only
+**Available for:**
+<br> 🪟 Windows 10/11 (.exe)
+<br> 🍎 MacOSX (Catalina and later)
 
-<br> <p align='center'> [<img src="https://img.shields.io/badge/Get-CTkDesigner-informational?&logo=windows&logoColor=blue&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
+<br> <p align='center'> [<img src="https://custom-icon-badges.demolab.com/badge/GET-CTkDesigner-blue.svg?&logo=ctkdesigner&logoColor=blue&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/blob/main/trial_version.md)  </br>
 
-### Note 
-I made many customtkinter widgets and released them for free, but CTkDesigner took a lot of manual work and time, so consider this as a type of support if you are willing to buy this project from me.
-There might be some minor bugs, but you can report it and I will try to fix it asap. 
+### Note from dev
+I have developed made CustomTkinter widgets and made them available for free. However, CTkDesigner required significant manual effort and time to create. Please consider purchasing this project as a form of support if you are interested. While there may some minor bugs, you can report them, and I will address them as soon as possible. It is highly recommended to test the trial version before buying the official version.
 
 ### Links:
 <br> Buy link: https://ko-fi.com/s/6fca1ae70f
@@ -84,7 +85,7 @@ Requirement for python:
 - ctklistbox
 - ctkdlib
 - pillow
-- pywinstyles
+- pywinstyles (for windows only)
   
 (If you are using ctkvideo widget, install pyav and pyaudio)
 <br> Note: Customtkinter and its related widget libraries are all MIT licensed, users have complete freedom to use these libraries and code for any purpose (including commercial or non-commercial projects).
