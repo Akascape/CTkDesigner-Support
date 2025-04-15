@@ -2,8 +2,8 @@
 but there are limitations in the trial version which I added for obvious reasons.**
 
 ## DOWNLOAD TRIAL VERSION
-<br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/releases/download/trial-version/CTkDesigner-Trial.zip)  </br>
-Extract the zip file and run ctkdesigner.exe
+<br> <p align='center'> [<img src="https://custom-icon-badges.demolab.com/badge/Windows-Trial-blue.svg?&logo=windows2&logoColor=blue&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/releases/download/trial-version/CTkDesigner-Trial.zip) <p align='center'> [<img src="https://img.shields.io/badge/MacOS-Trial-informational?&logo=Apple&logoColor=white&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/releases/download/trial-version/CTkDesigner-Trial_Mac.zip)  </br>
+Extract the zip file and run ctkdesigner
 
 ## Limitations of the trial version:
 <br> ✅ Time unlimited trial period
@@ -25,4 +25,4 @@ Extract the zip file and run ctkdesigner.exe
 
 If you think you are comfortable with the ctkdesigner UI, then buy the original version and support me. 
 
-Note: This app is packed using pyinstaller so ignore if there is any detections shown by antiviruses (which is rare), false positives are common issue with pyinstaller app (https://github.com/Akascape/CTkDesigner-Support/discussions/20), you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust it then don't test/buy this software, no hard feelings 😊
+Note: This app is packed using pyinstaller so ignore if there is any detections shown by antiviruses (rare), false positives are common issue with pyinstaller app (https://github.com/Akascape/CTkDesigner-Support/discussions/20), you can also try it in windows sandbox environment first, that's what I also do with any executables I download, still if you don't trust it then don't test/buy this software, no hard feelings 😊
