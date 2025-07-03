@@ -74,7 +74,7 @@ I have developed made CustomTkinter widgets and made them available for free. Ho
 </table>
 
 
-Current Version: 8.0
+Current Version: 8.1
 
 ## 30+ Widgets
 ![all_widgets](https://github.com/user-attachments/assets/305176ce-c571-40ed-9283-777663c66b3e)
