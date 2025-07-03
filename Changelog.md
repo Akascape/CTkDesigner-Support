@@ -1,5 +1,11 @@
 Version Management: Major Updates: +1.0, Minor updates: +0.1 
 
+### 8.1
+- Fixed a text issue while generating .py file
+- Fixed CTkRangeSlider widget for MacOS
+- Added manual entry box for size option of circular widgets
+- Fixed CTkTooltip not working on SegmentedButtons
+
 ## V8
 - Project Mode Export with separate files (beta)
 - New Widget: CTkRadarChart
