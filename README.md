@@ -12,7 +12,7 @@ After exporting, you can edit your python app easily, like adding commands, cond
 
 **Available for:**
 <br> 🪟 Windows 10/11 (.exe)
-<br> 🍎 MacOSX (Catalina and later)
+<br> 🍎 MacOS (Catalina and later)
 
 <br> <p align='center'> [<img src="https://custom-icon-badges.demolab.com/badge/GET-CTkDesigner-blue.svg?&logo=ctkdesigner&logoColor=blue&color=green" width="500">](https://ko-fi.com/s/6fca1ae70f)  </br>
 <br> <p align='center'> [<img src="https://img.shields.io/badge/Download-Trial-informational?&logo=python&logoColor=yellow&color=white" width="300">](https://github.com/Akascape/CTkDesigner-Support/blob/main/trial_version.md)  </br>
