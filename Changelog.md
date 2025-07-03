@@ -5,6 +5,7 @@ Version Management: Major Updates: +1.0, Minor updates: +0.1
 - Fixed CTkRangeSlider widget for MacOS
 - Added manual entry box for size option of circular widgets
 - Fixed CTkTooltip not working on SegmentedButtons
+- Fixed the icon in the mac executable
 
 ## V8
 - Project Mode Export with separate files (beta)
